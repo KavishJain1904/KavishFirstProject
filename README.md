@@ -1,4 +1,4 @@
 # KavishFirstProject
 this is my first git repository.
 <br>
-Author - Kavish Jain
+Author - Kavish Jain LNMIIT
